@@ -61,10 +61,6 @@ python3 -m http.server 8080
 
 Then open **http://localhost:8080** in your browser. 💻💗
 
-## 🌷 Credits
-
-Based on [But... I Love You (ask-her-out)](https://github.com/RS-labhub/ask-her-out) by Rohan Sharma,
-licensed under [Apache-2.0](LICENSE). Heart animation by [TypeCoder121](https://github.com/TypeCoder121/HeartAnimation).
 
 <p align="center">
   Made with 💗 for Tako
