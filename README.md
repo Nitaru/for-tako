@@ -5,8 +5,8 @@
 <h1 align="center">For Tako 🐙💗</h1>
 
 <h3 align="center">
-  A tiny website made with a whole lot of love<br>
-  for the one and only <b>Tako</b> ✨
+  A tiny website for <br>
+  <b>Basusi</b> ✨
 </h3>
 
 <p align="center">
